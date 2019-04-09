@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
+    "\\app\\controllers",
     "\\app\\views",
+    "\\app\\views\\posts",
     "\\app\\views\\root",
-    "\\config"
+    "\\db",
+    "\\db\\migrate"
   ],
-  "SelectedNode": "\\app\\views\\root\\top.html.erb",
+  "SelectedNode": "\\db\\migrate\\20190409041937_add_image_id_to_posts.rb",
   "PreviewInSolutionExplorer": false
 }
